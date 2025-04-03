@@ -1,6 +1,4 @@
 # Ian Keilman
-**Email:** ian.m.keilman@gmail.com  
-**Phone:** (630) 414-4954  
 [LinkedIn](https://linkedin.com/in/ian-keilman) | [GitHub](https://github.com/IanKeilman)
 
 ---
